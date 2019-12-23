@@ -1,29 +1,20 @@
-fancim - codestates 프로젝트
+# Platform Crawling Client
+크리에이터들의 성장/하락을 볼수 있는 플랫폼별 정보를 수집하여 시각화하여 보여주는 서비스이다.
 
-fancim BJ DATA 크롤링
 
-이기훈, 이영희, 한단비, 황종옥
+# 앱 실행 화면
 
-✨(sparkles): 새로운 컴포넌트, 기능 추가
+### 로그인, BJ별 이름 필터, 데이터 엑셀 파일로 export 기능
+[![Facim](https://media.giphy.com/media/MCiPUYrXKP8nHfiiV2/giphy.gif)
 
-📝(pencil): markdown 파일 등 수정
+# Front-end Skill
+react, antddesign
 
-🙈(see_no_evil): .gitignore 추가/수정
+# 설치 방법
+```sh
+npm install
+```
 
-💄(lipstick): UI 수정/추가
-
-🚧(construction): 작업 진행 중
-
-🎨(art): js 수정
-
-🔥(fire): 코드 삭제
-
-🐛(bug): 버그 수정
-
-➕(heavy_plus_sign): 디펜던시 추가
-
-➖(heavy_minus_sign): 디펜던시 삭제
-
-💩(poop): 앞으로 수정해야 할 나쁜 코드!
-
-👌(ok_hand): 코드 리뷰 후 코드 수정
+# 업데이트 내역
+* 0.1.0
+    * 첫 출시
